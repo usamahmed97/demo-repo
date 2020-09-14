@@ -5,4 +5,8 @@ This is the description text. This is the extra sentence added to the previous c
 
 I am additing new text to this file. Thanks!
 
-This is the feature branch added line. It should not appear in master until merge. 
+This is the new section to be merged in master:
+1.  My name is abc
+2. This is my demo repo list
+3. I am practicing here. 
+4. Thanks for reading out. 
